@@ -1,0 +1,7 @@
+C:\Users\slhgl\source\repos\InveonBootcampProjects\ISP\bin\Debug\ISP.exe.config
+C:\Users\slhgl\source\repos\InveonBootcampProjects\ISP\bin\Debug\ISP.exe
+C:\Users\slhgl\source\repos\InveonBootcampProjects\ISP\bin\Debug\ISP.pdb
+C:\Users\slhgl\source\repos\InveonBootcampProjects\ISP\obj\Debug\ISP.csproj.AssemblyReference.cache
+C:\Users\slhgl\source\repos\InveonBootcampProjects\ISP\obj\Debug\ISP.csproj.CoreCompileInputs.cache
+C:\Users\slhgl\source\repos\InveonBootcampProjects\ISP\obj\Debug\ISP.exe
+C:\Users\slhgl\source\repos\InveonBootcampProjects\ISP\obj\Debug\ISP.pdb

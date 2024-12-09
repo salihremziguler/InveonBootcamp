@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE86249-E24D-4301-BE6B-459EE0D859B8}|SRP\\SRP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\srp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE86249-E24D-4301-BE6B-459EE0D859B8}|SRP\\SRP.csproj|solutionrelative:srp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE86249-E24D-4301-BE6B-459EE0D859B8}|SRP\\SRP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE86249-E24D-4301-BE6B-459EE0D859B8}|SRP\\SRP.csproj|solutionrelative:srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26FA3D5-AE1C-4D67-BA3E-95F26DA654AB}|OCP\\OCP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26FA3D5-AE1C-4D67-BA3E-95F26DA654AB}|OCP\\OCP.csproj|solutionrelative:ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D88479-031D-4FC7-BBE0-5706B0E86BE1}|LSP\\LSP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D88479-031D-4FC7-BBE0-5706B0E86BE1}|LSP\\LSP.csproj|solutionrelative:lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D88479-031D-4FC7-BBE0-5706B0E86BE1}|LSP\\LSP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\lsp\\car_lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D88479-031D-4FC7-BBE0-5706B0E86BE1}|LSP\\LSP.csproj|solutionrelative:lsp\\car_lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D88479-031D-4FC7-BBE0-5706B0E86BE1}|LSP\\LSP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\lsp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D88479-031D-4FC7-BBE0-5706B0E86BE1}|LSP\\LSP.csproj|solutionrelative:lsp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36AEE6B-5949-454C-A45B-045E991B7D55}|ISP\\ISP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36AEE6B-5949-454C-A45B-045E991B7D55}|ISP\\ISP.csproj|solutionrelative:isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36AEE6B-5949-454C-A45B-045E991B7D55}|ISP\\ISP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\isp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36AEE6B-5949-454C-A45B-045E991B7D55}|ISP\\ISP.csproj|solutionrelative:isp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36AEE6B-5949-454C-A45B-045E991B7D55}|ISP\\ISP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\isp\\carisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36AEE6B-5949-454C-A45B-045E991B7D55}|ISP\\ISP.csproj|solutionrelative:isp\\carisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB80B31F-CE9E-4B17-AFFE-3190409DED8E}|DIP\\DIP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\dip\\creditcardpaymentdip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB80B31F-CE9E-4B17-AFFE-3190409DED8E}|DIP\\DIP.csproj|solutionrelative:dip\\creditcardpaymentdip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB80B31F-CE9E-4B17-AFFE-3190409DED8E}|DIP\\DIP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\dip\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB80B31F-CE9E-4B17-AFFE-3190409DED8E}|DIP\\DIP.csproj|solutionrelative:dip\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB80B31F-CE9E-4B17-AFFE-3190409DED8E}|DIP\\DIP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB80B31F-CE9E-4B17-AFFE-3190409DED8E}|DIP\\DIP.csproj|solutionrelative:dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26FA3D5-AE1C-4D67-BA3E-95F26DA654AB}|OCP\\OCP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\ocp\\carocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26FA3D5-AE1C-4D67-BA3E-95F26DA654AB}|OCP\\OCP.csproj|solutionrelative:ocp\\carocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26FA3D5-AE1C-4D67-BA3E-95F26DA654AB}|OCP\\OCP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\ocp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26FA3D5-AE1C-4D67-BA3E-95F26DA654AB}|OCP\\OCP.csproj|solutionrelative:ocp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE86249-E24D-4301-BE6B-459EE0D859B8}|SRP\\SRP.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\srp\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE86249-E24D-4301-BE6B-459EE0D859B8}|SRP\\SRP.csproj|solutionrelative:srp\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A15FD90-3A73-442D-918F-FF162DF9B511}|AsenkronProgrammingTask2\\AsenkronProgrammingTask2.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\asenkronprogrammingtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A15FD90-3A73-442D-918F-FF162DF9B511}|AsenkronProgrammingTask2\\AsenkronProgrammingTask2.csproj|solutionrelative:asenkronprogrammingtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95628F62-A2F2-469F-A10C-6D4009FB85DC}|AsenkronProgrammingTask1\\AsenkronProgrammingTask1.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\asenkronprogrammingtask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95628F62-A2F2-469F-A10C-6D4009FB85DC}|AsenkronProgrammingTask1\\AsenkronProgrammingTask1.csproj|solutionrelative:asenkronprogrammingtask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\api\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|solutionrelative:api\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|solutionrelative:api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\api\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|solutionrelative:api\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\api\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|solutionrelative:api\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\api\\model\\pagingparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|solutionrelative:api\\model\\pagingparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\api\\model\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|solutionrelative:api\\model\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\api\\model\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|solutionrelative:api\\model\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|c:\\users\\slhgl\\source\\repos\\inveonbootcampprojects\\api\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141402A0-FAFE-46AC-B219-3E37D1D60744}|API\\API.csproj|solutionrelative:api\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\DIP\\Program.cs",
+              "RelativeDocumentMoniker": "DIP\\Program.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\DIP\\Program.cs",
+              "RelativeToolTip": "DIP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:56:14.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\ISP\\Program.cs",
+              "RelativeDocumentMoniker": "ISP\\Program.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\ISP\\Program.cs",
+              "RelativeToolTip": "ISP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:56:22.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car_LSP.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\LSP\\Car_LSP.cs",
+              "RelativeDocumentMoniker": "LSP\\Car_LSP.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\LSP\\Car_LSP.cs",
+              "RelativeToolTip": "LSP\\Car_LSP.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:58:36.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\LSP\\Program.cs",
+              "RelativeDocumentMoniker": "LSP\\Program.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\LSP\\Program.cs",
+              "RelativeToolTip": "LSP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:56:04.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarISP.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\ISP\\CarISP.cs",
+              "RelativeDocumentMoniker": "ISP\\CarISP.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\ISP\\CarISP.cs",
+              "RelativeToolTip": "ISP\\CarISP.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:01:10.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\LSP\\Car.cs",
+              "RelativeDocumentMoniker": "LSP\\Car.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\LSP\\Car.cs",
+              "RelativeToolTip": "LSP\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:04:13.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\OCP\\Program.cs",
+              "RelativeDocumentMoniker": "OCP\\Program.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\OCP\\Program.cs",
+              "RelativeToolTip": "OCP\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:55:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\SRP\\Program.cs",
+              "RelativeDocumentMoniker": "SRP\\Program.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\SRP\\Program.cs",
+              "RelativeToolTip": "SRP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:55:49.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\SRP\\Order.cs",
+              "RelativeDocumentMoniker": "SRP\\Order.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\SRP\\Order.cs",
+              "RelativeToolTip": "SRP\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:56:43.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\DIP\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "DIP\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\DIP\\CreditCardPayment.cs",
+              "RelativeToolTip": "DIP\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:00:18.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreditCardPaymentDIP.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\DIP\\CreditCardPaymentDIP.cs",
+              "RelativeDocumentMoniker": "DIP\\CreditCardPaymentDIP.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\DIP\\CreditCardPaymentDIP.cs",
+              "RelativeToolTip": "DIP\\CreditCardPaymentDIP.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:00:32.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\ISP\\Car.cs",
+              "RelativeDocumentMoniker": "ISP\\Car.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\ISP\\Car.cs",
+              "RelativeToolTip": "ISP\\Car.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:01:03.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarOCP.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\OCP\\CarOCP.cs",
+              "RelativeDocumentMoniker": "OCP\\CarOCP.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\OCP\\CarOCP.cs",
+              "RelativeToolTip": "OCP\\CarOCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:57:47.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\OCP\\Car.cs",
+              "RelativeDocumentMoniker": "OCP\\Car.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\OCP\\Car.cs",
+              "RelativeToolTip": "OCP\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:57:44.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\SRP\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "SRP\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\SRP\\OrderRepository.cs",
+              "RelativeToolTip": "SRP\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:57:19.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\AsenkronProgrammingTask2\\Program.cs",
+              "RelativeDocumentMoniker": "AsenkronProgrammingTask2\\Program.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\AsenkronProgrammingTask2\\Program.cs",
+              "RelativeToolTip": "AsenkronProgrammingTask2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:55:41.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\AsenkronProgrammingTask1\\Program.cs",
+              "RelativeDocumentMoniker": "AsenkronProgrammingTask1\\Program.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\AsenkronProgrammingTask1\\Program.cs",
+              "RelativeToolTip": "AsenkronProgrammingTask1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:55:23.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "API\\Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "API\\Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:51:41.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "API\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "API\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:51:14.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T16:52:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:52:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Exceptions\\BookNotFoundException.cs",
+              "RelativeDocumentMoniker": "API\\Exceptions\\BookNotFoundException.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Exceptions\\BookNotFoundException.cs",
+              "RelativeToolTip": "API\\Exceptions\\BookNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:51:29.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "API\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:46:35.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagingParameters.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Model\\PagingParameters.cs",
+              "RelativeDocumentMoniker": "API\\Model\\PagingParameters.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Model\\PagingParameters.cs",
+              "RelativeToolTip": "API\\Model\\PagingParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:49:53.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Model\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "API\\Model\\PagedResponse.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Model\\PagedResponse.cs",
+              "RelativeToolTip": "API\\Model\\PagedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:49:23.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Model\\BookDto.cs",
+              "RelativeDocumentMoniker": "API\\Model\\BookDto.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Model\\BookDto.cs",
+              "RelativeToolTip": "API\\Model\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:49:13.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "API\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\InveonBootcampProjects\\API\\Model\\Book.cs",
+              "RelativeToolTip": "API\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:49:07.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

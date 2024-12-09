@@ -1,0 +1,7 @@
+C:\Users\slhgl\source\repos\InveonBootcampProjects\DIP\bin\Debug\DIP.exe.config
+C:\Users\slhgl\source\repos\InveonBootcampProjects\DIP\bin\Debug\DIP.exe
+C:\Users\slhgl\source\repos\InveonBootcampProjects\DIP\bin\Debug\DIP.pdb
+C:\Users\slhgl\source\repos\InveonBootcampProjects\DIP\obj\Debug\DIP.csproj.AssemblyReference.cache
+C:\Users\slhgl\source\repos\InveonBootcampProjects\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+C:\Users\slhgl\source\repos\InveonBootcampProjects\DIP\obj\Debug\DIP.exe
+C:\Users\slhgl\source\repos\InveonBootcampProjects\DIP\obj\Debug\DIP.pdb
