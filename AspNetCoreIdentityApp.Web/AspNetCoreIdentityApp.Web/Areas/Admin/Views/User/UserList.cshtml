@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewData["Title"] = "UserList";
+}
+
+@model List<AdminModel.UserViewModel>
+
+<div class="container py-5">
+    
+    
+            <h1 class="text-center mb-4">Kullanıcı Listesi</h1>
+      
+
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+
+    <table class="table table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>Kullanıcı Adı</th>
+                <th>Email</th>
+                <th>Kullanıcı Güncelle</th>
+                <th>Kullanıcı Sil</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+
+                    <td>
+                        <a class="btn btn-outline-primary btn-sm" asp-controller="User" asp-action="Edit" asp-route-id="@item.Id">Güncelle</a>
+                    </td>
+
+                    <td>
+                        <a class="btn btn-outline-danger btn-sm" asp-area="admin" asp-controller="User" asp-action="Delete" asp-route-id="@item.Id">Sil</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+    <div class="col-me">
+        <a class="btn btn-primary" asp-controller="User" asp-action="Create" asp-area="admin">Kullanıcı Ekle</a>
+    </div>
+
+</div>
+

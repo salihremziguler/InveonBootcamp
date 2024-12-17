@@ -1,0 +1,738 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\views\\roles\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\views\\roles\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\views\\roles\\rolecreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\views\\roles\\rolecreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\models\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\models\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\views\\shared\\_navbarlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\views\\shared\\_navbarlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\views\\member\\useredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\views\\member\\useredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\views\\roles\\roleupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\views\\roles\\roleupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\viewmodels\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\viewmodels\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\viewmodels\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|c:\\users\\slhgl\\source\\repos\\aspnetcoreidentityapp.web\\aspnetcoreidentityapp.web\\areas\\admin\\views\\roles\\assignroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9949AFF3-756B-4C07-941C-74546F0D200B}|AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web.csproj|solutionrelative:aspnetcoreidentityapp.web\\areas\\admin\\views\\roles\\assignroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:18:42.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\UserList.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\UserList.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\UserList.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:26:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:48:58.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:37:40.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:37:00.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:32:29.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Home\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Views\\Home\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Home\\SignIn.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Views\\Home\\SignIn.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:15:52.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\UserList.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\UserList.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\UserList.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T17:42:59.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\RoleCreate.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\RoleCreate.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\RoleCreate.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\RoleCreate.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:18:45.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T17:34:39.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T15:45:47.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAwwMAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:32:59.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:29:45.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:40:36.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\_ViewImports.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:28:37.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T17:56:36.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\EditUserViewModel.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\EditUserViewModel.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\EditUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:39:03.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\CreateUserViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\CreateUserViewModel.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\CreateUserViewModel.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\CreateUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:40:39.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:33:40.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Navbarlogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Shared\\_Navbarlogin.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Views\\Shared\\_Navbarlogin.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Shared\\_Navbarlogin.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Views\\Shared\\_Navbarlogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:00:46.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Home\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Views\\Home\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Home\\SignUp.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Views\\Home\\SignUp.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T15:58:34.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T17:48:34.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Member\\UserEdit.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Views\\Member\\UserEdit.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Member\\UserEdit.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Views\\Member\\UserEdit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:54:14.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\ViewModels\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\ViewModels\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\ViewModels\\BookViewModel.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\ViewModels\\BookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:48:40.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T17:48:59.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:07:24.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\appsettings.Development.json",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T18:06:56.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:06:53.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T18:06:52.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-17T18:05:08.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-17T18:05:04.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-17T18:04:58.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-17T18:04:56.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Program.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:28:13.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RoleUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\RoleUpdate.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\RoleUpdate.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\RoleUpdate.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\RoleUpdate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:18:59.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Models\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:39:47.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\ViewModels\\UserEditViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\ViewModels\\UserEditViewModel.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\ViewModels\\UserEditViewModel.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\ViewModels\\UserEditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:54:23.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\ViewModels\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\ViewModels\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\ViewModels\\SignUpViewModel.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\ViewModels\\SignUpViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:10:28.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\ViewModels\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\ViewModels\\SignInViewModel.cs",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\ViewModels\\SignInViewModel.cs",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\ViewModels\\SignInViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:47:16.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T15:43:54.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:28:42.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AssignRoleToUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
+              "ToolTip": "C:\\Users\\slhgl\\source\\repos\\AspNetCoreIdentityApp.Web\\AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
+              "RelativeToolTip": "AspNetCoreIdentityApp.Web\\Areas\\Admin\\Views\\Roles\\AssignRoleToUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:18:41.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

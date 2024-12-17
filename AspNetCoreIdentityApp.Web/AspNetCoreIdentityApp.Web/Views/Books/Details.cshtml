@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+@model BookViewModel
+
+<div class="container py-5">
+    <h2 class="text-center mb-4">Kitap Detayları</h2>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h4>@Model.Title</h4>
+            <p class="lead text-muted"><strong>Author:</strong> @Model.Author</p>
+            <p><strong>Publication Year:</strong> @Model.PublicationYear</p>
+            <p><strong>ISBN:</strong> @Model.ISBN</p>
+            <p><strong>Genre:</strong> @Model.Genre</p>
+            <p><strong>Publisher:</strong> @Model.Publisher</p>
+            <p><strong>Page Count:</strong> @Model.PageCount</p>
+            <p><strong>Language:</strong> @Model.Language</p>
+            <p><strong>Available Copies:</strong> @Model.AvaliableCopies</p>
+            <p><strong>Summary:</strong></p>
+            <p>@Model.Summary</p>
+        </div>
+
+        <!-- Optional: You can add a book cover image here -->
+        
+
+    <div class="text-center mt-4">
+        <a class="btn btn-outline-primary" asp-action="Index">Listeye Dön</a>
+    </div>
+</div>
